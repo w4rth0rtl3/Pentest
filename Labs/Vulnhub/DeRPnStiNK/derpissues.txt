@@ -1,0 +1,14 @@
+12:06 mrderp: hey i cant login to wordpress anymore. Can you look into it?
+12:07 stinky: yeah. did you need a password reset?
+12:07 mrderp: I think i accidently deleted my account
+12:07 mrderp: i just need to logon once to make a change
+12:07 stinky: im gonna packet capture so we can figure out whats going on
+12:07 mrderp: that seems a bit overkill, but wtv
+12:08 stinky: commence the sniffer!!!!
+12:08 mrderp: -_-
+12:10 stinky: fine derp, i think i fixed it for you though. cany you try to login?
+12:11 mrderp: awesome it works!
+12:12 stinky: we really are the best sysadmins #team
+12:13 mrderp: i guess we are...
+12:15 mrderp: alright I made the changes, feel free to decomission my account
+12:20 stinky: done! yay
