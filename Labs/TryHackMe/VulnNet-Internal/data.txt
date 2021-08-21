@@ -1,0 +1,1 @@
+Purge regularly data that is not needed anymore
