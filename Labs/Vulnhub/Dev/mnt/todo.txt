@@ -1,0 +1,5 @@
+- Figure out how to install the main website properly, the config file seems correct...
+- Update development website
+- Keep coding in Java because it's awesome
+
+jp
